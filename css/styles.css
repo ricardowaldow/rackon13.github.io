@@ -1,15 +1,28 @@
 .cabecalho {
-    background-color: rgb(0, 102, 255);
+    background-color: rgb(60, 138, 255);
+    height: 100px;
 }
 
 .conteudo {
-    background-color: grey;
+    background-color: rgb(185, 185, 185);
+    height: 750px;
 }
 
 .rodape {
-    background-color: rgb(0, 102, 255);
+    background-color: rgb(60, 138, 255);
+    height: 100px;
 }
 
 h1 {
     font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    padding: 35px;
+}
+
+.lolo {
+    display: block;
+    margin: auto;
+    padding: 70px;
 }
