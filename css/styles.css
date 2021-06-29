@@ -26,3 +26,8 @@ h1 {
     margin: auto;
     padding: 70px;
 }
+
+.music {
+    display: block;
+    margin: auto;
+}
