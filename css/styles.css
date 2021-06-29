@@ -29,6 +29,6 @@ h1 {
 
 .music {
     display: block;
-    margin: auto;
+    margin: auto auto 0 auto;
     padding: 30px;
 }
