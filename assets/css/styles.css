@@ -17,11 +17,10 @@ h1 {
     font-family: 'Montserrat', sans-serif;
     font-size: 40px;
     font-weight: 900;
-    text-align: center;
     padding: 35px;
 }
 
-.lolo {
+.foto {
     display: block;
     margin: auto;
     padding: 70px;
@@ -31,4 +30,25 @@ h1 {
     display: block;
     margin: auto auto 0 auto;
     padding: 20px 0 0 0;
+}
+
+nav {
+    position: absolute;
+    top: 50px;
+    right: 30px;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    
 }
